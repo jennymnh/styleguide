@@ -3,7 +3,7 @@ define({
 	// css_path: window.location.protocol + '//' + window.location.hostname + (window.location.port === '' ? '' : ':'+ window.location.port) + window.location.pathname +  'css/ltss/ltss_styleguide.css',
 
 	// You can configure any path by just deleting the one above and uncommenting the one below to point at your css directory
-	css_path: '/styleguide/css/ltss/ltss_styleguide.css',
+	css_path: '/sg-ms-dev3/css/ltss/ltss_styleguide.css',
 
 	// You can manually list the css files to process by giving a css_paths array
 	//css_paths: ['../css/styles.css', '../css/buttons.css'],
